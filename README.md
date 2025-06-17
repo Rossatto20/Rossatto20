@@ -31,6 +31,9 @@
 
 <div style="background: #0f0f0f; padding: 20px; border-radius: 10px; border-left: 4px solid #30A3DC; margin: 15px 0;">
 
+📫 Conecte-se Comigo
+<div align="center" style="margin: 30px 0;"> <a href="https://www.linkedin.com/in/enzo-rossatto-516a5036b"> <img src="https://img.shields.io/badge/LinkedIn-Enzo_Rossatto-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/> </a> <a href="mailto:e.rossatto@hotmail.com"> <img src="https://img.shields.io/badge/Email-rossatto20@exemplo.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/> </a> <a href="https://discord.com/users/seu-id"> <img src="https://img.shields.io/badge/Discord-Rossatto20%237890-5865F2?style=for-the-badge&logo=discord&logoColor=white"/> </a> </div> ```
+
 ```python
 class EnzoRossatto:
     def __init__(self):
@@ -56,3 +59,5 @@ dev = EnzoRossatto()
 print(f"👋 Olá, sou Enzo Rossatto - {dev.status}")
 print(f"🚀 Objetivo: {dev.objetivo}")
 print(f"🛠️ Habilidades: {', '.join(dev.habilidades['Linguagens'])}")
+
+
