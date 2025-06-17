@@ -16,7 +16,7 @@
 <div align="center" style="background: linear-gradient(to right, #000428, #004e92); padding: 20px; border-radius: 10px; margin: 15px 0;">
 
   <!-- Linguagens mais usadas -->
-  <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=JonathanSH02&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF" alt="Top Languages" style="margin-bottom: 20px;"/>
+  <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Rossatto20&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF" alt="Top Languages" style="margin-bottom: 20px;"/>
   
   <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; margin-bottom: 20px;">
     <!-- Estatísticas principais -->
