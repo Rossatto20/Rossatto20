@@ -17,6 +17,8 @@
   ![GitHub Streak](https://streak-stats.demolab.com?user=Rossatto20&theme=dark&background=000000&border=30A3DC&stroke=30A3DC&ring=E94D5F&fire=E94D5F&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=30A3DC&sideLabels=30A3DC&dates=FFFFFF)
 </div>
 
+![Snake Animation](https://github.com/Rossatto20/Rossatto20/blob/output/github-contribution-grid-snake.svg)
+
 ## 🌟 Sobre Mim
 
 ```python
@@ -32,4 +34,3 @@ class EnzoRossatto:
         
     def tempo_livre(self):
         return "Estudo | Jogo | Leio | Assisto Séries"
-![Snake Animation](https://github.com/Rossatto20/Rossatto20/blob/output/github-contribution-grid-snake.svg)
