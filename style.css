@@ -1,0 +1,67 @@
+/* === EFEITO SNAKE (BORDA COLORIDA) === */
+.snake-box {
+    position: relative;
+    padding: 20px;
+    margin: 20px auto;
+    border-radius: 10px;
+    background: #0f0f0f;
+    max-width: 90%;
+    text-align: center;
+    overflow: hidden;
+}
+
+.snake-box::after {
+    content: "";
+    position: absolute;
+    top: -2px;
+    left: -2px;
+    right: -2px;
+    bottom: -2px;
+    border-radius: 12px;
+    background: linear-gradient(45deg, #ff0000, #00ff00, #0000ff, #ffff00);
+    background-size: 400% 400%;
+    z-index: -1;
+    animation: snake 4s linear infinite;
+}
+
+@keyframes snake {
+    0% { background-position: 0% 50%; }
+    100% { background-position: 400% 50%; }
+}
+
+/* === EFEITO MÁQUINA DE ESCREVER === */
+.typewriter h1 {
+    overflow: hidden;
+    border-right: 3px solid #30A3DC;
+    white-space: nowrap;
+    margin: 0 auto;
+    letter-spacing: 2px;
+    animation: typing 3s steps(40, end), blink-caret 0.75s step-end infinite;
+}
+
+@keyframes typing {
+    from { width: 0 }
+    to { width: 100% }
+}
+
+@keyframes blink-caret {
+    from, to { border-color: transparent }
+    50% { border-color: #30A3DC; }
+}
+
+/* === BOTÕES FLUTUANTES === */
+.float-btn {
+    display: inline-block;
+    animation: float 3s ease-in-out infinite;
+    transition: all 0.3s;
+}
+
+@keyframes float {
+    0%, 100% { transform: translateY(0); }
+    50% { transform: translateY(-5px); }
+}
+
+.float-btn:hover {
+    transform: translateY(-5px) scale(1.05);
+    filter: drop-shadow(0 0 8px rgba(0, 119, 181, 0.6));
+}
