@@ -32,3 +32,4 @@ class EnzoRossatto:
         
     def tempo_livre(self):
         return "Estudo | Jogo | Leio | Assisto Séries"
+![Snake Animation](https://github.com/Rossatto20/Rossatto20/blob/output/github-contribution-grid-snake.svg)
