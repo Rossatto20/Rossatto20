@@ -1,9 +1,6 @@
 # 🚀 Enzo Rossatto - Portfólio Interativo
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Rossatto20/Rossatto20/main/github-header-image.png" 
-       alt="Banner Tech" width="100%" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);"/>
-  
+
   <div style="margin: 15px 0;">
     <a href="https://github.com/Rossatto20?tab=repositories">
       <img src="https://komarev.com/ghpvc/?username=Rossatto20&color=30A3DC&label=VISITANTES&style=for-the-badge" alt="Visitantes"/>
