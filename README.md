@@ -27,20 +27,28 @@
 ## 📫 Como me Encontrar
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/enzo-rossatto-516a5036b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
+# 🚀 Enzo Rossatto - Desenvolvedor em Ascensão
+
+<div align="center">
+  <div style="margin: 15px 0;">
+    <a href="https://github.com/Rossatto20?tab=repositories">
+      <img src="https://komarev.com/ghpvc/?username=Rossatto20&color=30A3DC&label=VISITANTES&style=for-the-badge" alt="Visitantes"/>
+    </a>
+    <a href="https://github.com/Rossatto20?tab=followers">
+      <img src="https://img.shields.io/github/followers/Rossatto20?color=E94D5F&label=SEGUIDORES&logo=github&style=for-the-badge" alt="Seguidores"/>
+    </a>
+  </div>
+</div>
+
 ## 🌟 Sobre Mim
-
-<div style="background: #0f0f0f; padding: 20px; border-radius: 10px; border-left: 4px solid #30A3DC; margin: 15px 0;">
-  
-
-
 
 ```python
 class EnzoRossatto:
     def __init__(self):
         self.pronomes = "Ele/Dele"
         self.idade = "20 anos"
-        self.interesses = ["Programação", "Jogos", "Leitura"]
-        self.status = "Estudando Desenvolvimento de Software"
+        self.interesses = ["Programação", "Jogos", "Leitura"] 
+        self.status = "Estudante de Desenvolvimento de Software"
         self.objetivo = "Tornar-se Desenvolvedor Full-Stack"
         
     @property
@@ -48,14 +56,14 @@ class EnzoRossatto:
         return {
             "Linguagens": ["Python", "JavaScript", "HTML/CSS"],
             "Ferramentas": ["Git", "VS Code", "Docker"],
-            "Estudando": ["React",]
+            "Estudando Atualmente": ["React", "Node.js", "TypeScript"]
         }
         
-    def hobbies(self):
-        return "💻 Programação | 🎮 Jogos | 📚 Leitura | 🎬 Séries"
+    def bio(self):
+        return """
+        💡 Apaixonado por tecnologia e solução de problemas
+        🚀 Buscando minha primeira oportunidade profissional
+        🌱 Aprendendo e evoluindo diariamente
+        """
 
-# Instância
-dev = EnzoRossatto()
-print(f"👋 Olá, sou Enzo Rossatto - {dev.status}")
-print(f"🚀 Objetivo: {dev.objetivo}")
-print(f"🛠️ Habilidades: {', '.join(dev.habilidades['Linguagens'])}")
+dev = Enzo Rossatto
