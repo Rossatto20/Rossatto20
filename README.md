@@ -47,7 +47,6 @@
 ```python
 class EnzoRossatto:
     def __init__(self):
-        self.pronomes = "Ele/Dele"
         self.idade = "20 anos"
         self.interesses = ["Programação", "Jogos", "Leitura"] 
         self.status = "Estudante de Desenvolvimento de Software"
